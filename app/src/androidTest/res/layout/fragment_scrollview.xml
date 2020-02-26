@@ -13,7 +13,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<com.github.ksoichiro.android.observablescrollview.ObservableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.mardillu.ksoichiro.android.observablescrollview.ObservableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/scroll"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -34,4 +34,4 @@
             android:background="@android:color/white"
             android:text="@string/lipsum" />
     </LinearLayout>
-</com.github.ksoichiro.android.observablescrollview.ObservableScrollView>
+</com.mardillu.ksoichiro.android.observablescrollview.ObservableScrollView>

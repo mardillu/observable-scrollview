@@ -18,13 +18,13 @@
     android:layout_height="match_parent"
     android:clipChildren="false">
 
-    <com.github.ksoichiro.android.observablescrollview.TouchInterceptionFrameLayout
+    <com.mardillu.ksoichiro.android.observablescrollview.TouchInterceptionFrameLayout
         android:id="@+id/scroll_wrapper"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipChildren="false">
 
-        <com.github.ksoichiro.android.observablescrollview.ObservableScrollView
+        <com.mardillu.ksoichiro.android.observablescrollview.ObservableScrollView
             android:id="@+id/scrollable"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/lipsum" />
-        </com.github.ksoichiro.android.observablescrollview.ObservableScrollView>
+        </com.mardillu.ksoichiro.android.observablescrollview.ObservableScrollView>
 
         <FrameLayout
             android:id="@+id/header"
@@ -70,5 +70,5 @@
                     android:textSize="20sp" />
             </LinearLayout>
         </FrameLayout>
-    </com.github.ksoichiro.android.observablescrollview.TouchInterceptionFrameLayout>
+    </com.mardillu.ksoichiro.android.observablescrollview.TouchInterceptionFrameLayout>
 </FrameLayout>
