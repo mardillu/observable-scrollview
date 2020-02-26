@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675c5a76-4ad6-4a03-8fd0-90478a1100ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/res/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/assets/lipsum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/SavedStateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/GridViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/GridViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/HeaderGridViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/HeaderGridViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ListViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ListViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ListViewScrollFromBottomActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ListViewScrollFromBottomActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/RecyclerViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/RecyclerViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/RecyclerViewScrollFromBottomActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/RecyclerViewScrollFromBottomActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ScrollUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ScrollViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ScrollViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/SimpleHeaderRecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/SimpleRecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionGridViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionGridViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionListViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionListViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionRecyclerViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionRecyclerViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionScrollViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionScrollViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionWebViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/TouchInterceptionWebViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/UiTestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2ActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2GridViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2ListViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2RecyclerViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2ScrollViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTab2WebViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTabActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTabActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTabListViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTabRecyclerViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/ViewPagerTabScrollViewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/WebViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/github/ksoichiro/android/observablescrollview/test/WebViewActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/google/samples/apps/iosched/ui/widget/SlidingTabLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/java/com/google/samples/apps/iosched/ui/widget/SlidingTabStrip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/color/tab_text_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_gridview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_listview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_recyclerview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_scrollview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_touchinterception_gridview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_touchinterception_listview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_touchinterception_recyclerview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_touchinterception_scrollview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_touchinterception_webview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_viewpagertab.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_viewpagertab2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/activity_webview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_gridview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_listview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_recyclerview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_scrollview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_scrollview_noheader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/fragment_webview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/padding.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/layout/tab_indicator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/androidTest/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/CacheFragmentStatePagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableGridView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableRecyclerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableScrollView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableScrollViewCallbacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ObservableWebView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ScrollState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/ScrollUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/Scrollable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/src/main/java/com/github/ksoichiro/android/observablescrollview/TouchInterceptionFrameLayout.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="616" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="osv-library" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675c5a76-4ad6-4a03-8fd0-90478a1100ce" name="Default Changelist" comment="" />
+      <created>1582734006446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582734006446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980332" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32850242" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
